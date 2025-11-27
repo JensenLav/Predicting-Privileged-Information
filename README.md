@@ -14,3 +14,5 @@ This is for a class project where we are investigating a method to explicitly pr
 * Test with g1 locomotion task :x:
 * dm_control domain randimization :x:
   
+### REF 
+* for domain ranimization see locomotion for g1 as example 
