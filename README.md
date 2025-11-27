@@ -1,3 +1,6 @@
+## Unified Brax and Mujoco Playground 
+This is for a class project where we are investigating a method to explicitly predict Privileged Information
+
 ## Install Instructions 
 
 * Follow mujoco playground isntall instructions up to step 5
