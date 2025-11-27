@@ -1,0 +1,6 @@
+[submodule "brax"]
+	path = brax
+	url = https://github.com/google/brax.git
+[submodule "mujoco-playground"]
+	path = mujoco-playground
+	url = https://github.com/google-deepmind/mujoco_playground.git
