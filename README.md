@@ -8,8 +8,7 @@ This is for a class project where we are investigating a method to explicitly pr
 * then do the rest of the mujoco playground install insctrictions 
 
 
-## Ordered TO-DO 
-:x: :white_check_mark:
+## Ordered TO-DO :x: :white_check_mark:
 * Implement Self-Attention netowrks :x:
 * Calculate loss :x:
 * Test with g1 locomotion task :x:
