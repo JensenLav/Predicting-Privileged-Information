@@ -1,5 +1,5 @@
 ## Unified Brax and Mujoco Playground 
-This is for a class project where we are investigating a method to explicitly predict Privileged Information
+This is for a class project where we are investigating a method to explicitly predict Privileged Information by modifying the Brax implementation of SAC and visualizing and managing enviroments with Mujoco Playground
 
 ## Install Instructions 
 
