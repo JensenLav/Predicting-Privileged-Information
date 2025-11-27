@@ -1,6 +1,6 @@
 [submodule "brax"]
 	path = brax
-	url = https://github.com/google/brax.git
+	url = https://github.com/JensenLav/brax.git
 [submodule "mujoco-playground"]
 	path = mujoco-playground
-	url = https://github.com/google-deepmind/mujoco_playground.git
+	url = https://github.com/JensenLav/mujoco_playground.git
