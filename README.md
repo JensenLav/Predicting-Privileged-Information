@@ -11,7 +11,7 @@ This is for a class project where we are investigating a method to explicitly pr
 ## Ordered TO-DO :x: :white_check_mark:
 * Implement Self-Attention netowrks :x:
 * Calculate loss :x:
-* Test with g1 locomotion task :x:
+* Test with g1 locomotion task -- already has domain randimization :x:
 * dm_control domain randimization :x:
   
 ### REF 
